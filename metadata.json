@@ -1,0 +1,5 @@
+{
+  "name": "TrustCheck AI",
+  "description": "Identify potential scams and run background checks using Gemini AI to calculate a trust factor based on web presence and image analysis.",
+  "requestFramePermissions": []
+}
